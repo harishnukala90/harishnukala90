@@ -1,7 +1,7 @@
 # 👋 Hi, I'm N. Harish!
 
 <p align="left">
-  <img src="https://drive.google.com/file/d/1MiNC6A56m_cpT-GU28aq10hsh4vabcm8/view?usp=sharing" alt="Profile Pic" />
+  <img src="https://github.com/harishnukala90.png" alt="Profile Pic" />
 </p>
 
 <p align="left">
