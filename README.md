@@ -1,13 +1,19 @@
 # 👋 Hi, I'm N. Harish!
 
-<p align="left">
-  <img src="https://github.com/harishnukala90.png" alt="Profile pic" width="120" height="120" style="border-radius: 50%;" />
-</p>
+<div style="position: relative; width: 600px;">
 
-<p align="left">
-  <img src="https://komarev.com/ghvc/?username=harishnukala90&label=Profile%20Views&color=0e76a8&style=flat-square" alt="visitor counter" />
-</p>
+  <img src="https://github.com/harishnukala90.png" alt="Prifile Pic" width="9999" height="670">
 
+  <div style="
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      color: white;
+      font-size: 20px;
+      line-height: 1.5;
+      width: 560px;
+      text-shadow: 2px 2px 5px black;
+  ">
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=false&width=435&lines=Student+%7C+Tech+Enthusiast;19+Years+of+Continuous+Learning;Building+the+Future+with+Code" alt="Typing SVG" />
@@ -62,3 +68,6 @@ Let's collaborate, share ideas, or just chat about tech! Find me on my social pl
 <p align="center">
   🚀 <i>"The best way to predict the future is to invent it."</i> Thanks for visiting my profile!
 </p>
+  </div>
+
+</div>
