@@ -1,6 +1,6 @@
 # 👋 Hi, I'm N. Harish!
 
-  <img src="https://github.com/harishnukala90.png" alt="Prifile Pic" width="9999" height="9999">
+  <img src="https://github.com/harishnukala90.png" alt="Prifile Pic" />
 
 <p align="left">
   <a href="https://git.io/typing-svg">
