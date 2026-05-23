@@ -1,10 +1,6 @@
 # 👋 Hi, I'm N. Harish!
 
 <p align="left">
-  <img src="https://github.com/harishnukala90.png" alt="Profile Pic" />
-</p>
-
-<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=false&width=435&lines=Student+%7C+Tech+Enthusiast;19+Years+of+Continuous+Learning;Building+the+Future+with+Code" alt="Typing SVG" />
   </a>
