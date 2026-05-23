@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/javascript-tutorial/en.javascript.info/master/1-js/01-main/hello.gif" width="30px"> Hi, I'm N. Harish!
+# 👋 Hi, I'm N. Harish!
 
 <p align="left">
   <img src="https://komarev.com/ghvc/?username=harishnukala90&label=Profile%20Views&color=0e76a8&style=flat-square" alt="visitor counter" />
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a highly driven **Student** with 19 years of life and continuous learning experience, deeply passionate about software development, problem-solving, and building impactful digital experiences. Beyond writing clean code, I enjoy breaking down complex concepts and sharing knowledge through content creation across YouTube, Medium, and Instagram.
+I am a highly driven **Student** with 19 years of life and continuous learning experience, deeply passionate about software development, problem-solving, and building impactful digital experiences. Beyond writing clean code, I enjoy breaking down complex concepts and sharing knowledge through content creation across Instagram.
 
 * 🎓 **What I do:** Exploring the depths of Computer Science and Full-Stack Development.
 * ✍️ **Content Creation:** Crafting tech content, tutorials, and insights for the developer community.
@@ -45,37 +45,13 @@ I am a highly driven **Student** with 19 years of life and continuous learning e
 
 ---
 
-## 🏆 GitHub Trophies
-🥇 **My Achievements:**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harishnukala90&theme=onedark&column=4" alt="github trophies" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishnukala90&show_icons=true&theme=tokyonight&count_private=true" alt="Harish's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishnukala90&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishnukala90&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 Let's collaborate, share ideas, or just chat about tech! Find me on my social platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-nukala-51762538a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_harish_as_sunny_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/harishnukala90)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/harishnukala90)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917993879325)
 
 ---
 
