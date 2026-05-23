@@ -1,7 +1,7 @@
 # 👋 Hi, I'm N. Harish!
 
 <p align="left">
-  <img src="https://komarev.com/ghvc/?username=harishnukala90&label=Profile%20Views&color=0e76a8&style=flat-square" alt="visitor counter" />
+  <img src="https://drive.google.com/file/d/1MiNC6A56m_cpT-GU28aq10hsh4vabcm8/view?usp=sharing" alt="Profile Pic" />
 </p>
 
 <p align="left">
