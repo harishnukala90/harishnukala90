@@ -2,7 +2,7 @@
 
 <div style="position: relative; width: 600px;">
 
-  <img src="https://github.com/harishnukala90.png" alt="Prifile Pic" width="9999" height="670">
+  <img src="https://github.com/harishnukala90.png" alt="Prifile Pic" width="9999" height="9999">
 
   <div style="
       position: absolute;
